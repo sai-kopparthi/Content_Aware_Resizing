@@ -5,7 +5,10 @@ A seam is a connected path of low energy pixels in an image. This is an image wi
 seam. 
 ![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/VerticalAndHorizontalSeam.png)
 
-In the middle the energy function used in this example is shown (the magnitude of the gradient), along with the vertical and horizontal
-path maps used to calculate the seams. By automatically carving out seams to reduce image size, and inserting seams to extend it, we achieve
-content-aware resizing. The example on the top right shows our result of extending in one dimension and reducing in the other, compared to
+The energy function used in this example is shown (the magnitude of the gradient), along with the vertical and horizontal path maps used to calculate the seams. By automatically carving out seams to reduce image size, and inserting seams to extend it, I achieve
+content-aware resizing.
+![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/CumulativeEnergyFilteredHorizontalPrague.png)
+![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/CumulativeEnergyVerticalPrague.png)
+
+The example on the top right shows our result of extending in one dimension and reducing in the other, compared to
 standard scaling on the bottom right.
