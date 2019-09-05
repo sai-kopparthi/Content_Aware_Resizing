@@ -7,8 +7,9 @@ seam.
 
 The energy function used in this example is shown (the magnitude of the gradient), along with the vertical and horizontal path maps used to calculate the seams. By automatically carving out seams to reduce image size, and inserting seams to extend it, I achieve
 content-aware resizing.
-![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/CumulativeEnergyFilteredHorizontalPrague.png)
+![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/CumulativeEnergyHorizontalPrague.png)
 ![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/CumulativeEnergyVerticalPrague.png)
 
-The example on the top right shows our result of extending in one dimension and reducing in the other, compared to
-standard scaling on the bottom right.
+The following are the results of the images after resizng vertically(Reduce Height) and horizontally(Reduce width).
+![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/outputReduceHeightPrague.png)
+![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/outputReduceWidthPrague.png)
