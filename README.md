@@ -12,5 +12,4 @@ content-aware resizing.
 
 The following are the results of the images after resizng vertically(Reduce Height) and horizontally(Reduce width).
 
-! [image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/outputReduceHeightPrague.png)
-! [image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/outputReduceWidthPrague.png)
+![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/outputReduceHeightPrague.png) ![image](https://github.com/sai-kopparthi/Content_Aware_Resizing/blob/master/outputReduceWidthPrague.png)
