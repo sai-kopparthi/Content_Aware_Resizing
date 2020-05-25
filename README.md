@@ -1,5 +1,5 @@
 # Content_Aware_Resizing
-I have implemented the [Content aware resizing](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/hw/proj3-seamcarving/imret.pdf) paper.
+ Implemented the [Content aware resizing](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/hw/proj3-seamcarving/imret.pdf) paper.
 
 A seam is a connected path of low energy pixels in an image. This is an image with one horizontal and one vertical
 seam. 
